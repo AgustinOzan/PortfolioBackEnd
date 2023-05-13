@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.miportfolio.Agustin.AgustinApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.906 s - in com.miportfolio.Agustin.AgustinApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.875 s - in com.miportfolio.Agustin.AgustinApplicationTests
