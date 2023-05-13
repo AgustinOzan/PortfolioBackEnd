@@ -24,6 +24,7 @@ com\miportfolio\Agustin\Entity\Experiencia.class
 com\miportfolio\Agustin\Entity\Persona.class
 com\miportfolio\Agustin\Service\Shys.class
 com\miportfolio\Agustin\Service\SEducacion.class
+.netbeans_automatic_build
 com\miportfolio\Agustin\Security\Entity\Usuario.class
 com\miportfolio\Agustin\Security\Service\RolService.class
 com\miportfolio\Agustin\AgustinApplication.class
