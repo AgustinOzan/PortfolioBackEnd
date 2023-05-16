@@ -1,3 +1,4 @@
+com\miportfolio\Agustin\Controller\CProyecto.class
 com\miportfolio\Agustin\Security\Repository\IRolRepository.class
 com\miportfolio\Agustin\Security\Repository\IUsuarioRepository.class
 com\miportfolio\Agustin\Security\jwt\JwtProvider.class
@@ -5,6 +6,7 @@ com\miportfolio\Agustin\Service\ImpPersonaService.class
 com\miportfolio\Agustin\Security\Controller\AuthController.class
 com\miportfolio\Agustin\Security\Service\UsuarioService.class
 com\miportfolio\Agustin\Dto\dtoHys.class
+com\miportfolio\Agustin\Dto\dtoProyecto.class
 com\miportfolio\Agustin\Entity\Educacion.class
 com\miportfolio\Agustin\Repository\REducacion.class
 com\miportfolio\Agustin\Dto\dtoEducacion.class
@@ -15,6 +17,7 @@ com\miportfolio\Agustin\Security\Dto\JwtDto.class
 com\miportfolio\Agustin\Security\Dto\NuevoUsuario.class
 com\miportfolio\Agustin\Security\Enums\RolNombre.class
 com\miportfolio\Agustin\Entity\hys.class
+com\miportfolio\Agustin\Repository\RProyecto.class
 com\miportfolio\Agustin\Controller\CExperiencia.class
 com\miportfolio\Agustin\Security\Dto\LoginUsuario.class
 com\miportfolio\Agustin\Service\SExperiencia.class
@@ -22,6 +25,7 @@ com\miportfolio\Agustin\Controller\CHys.class
 com\miportfolio\Agustin\Dto\dtoExperiencia.class
 com\miportfolio\Agustin\Entity\Experiencia.class
 com\miportfolio\Agustin\Entity\Persona.class
+com\miportfolio\Agustin\Entity\Proyecto.class
 com\miportfolio\Agustin\Service\Shys.class
 com\miportfolio\Agustin\Service\SEducacion.class
 com\miportfolio\Agustin\Security\Entity\Usuario.class
@@ -33,6 +37,7 @@ com\miportfolio\Agustin\Security\MainSecurity.class
 com\miportfolio\Agustin\Repository\Rhys.class
 com\miportfolio\Agustin\Security\Entity\UsuarioPrincipal.class
 com\miportfolio\Agustin\Security\Controller\Mensaje.class
+com\miportfolio\Agustin\Service\SProyecto.class
 com\miportfolio\Agustin\Security\jwt\JwtTokenFilter.class
 com\miportfolio\Agustin\Security\jwt\JwtEntryPoint.class
 com\miportfolio\Agustin\Security\Service\UserDetailsImpl.class

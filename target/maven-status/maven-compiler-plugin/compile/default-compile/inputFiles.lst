@@ -1,6 +1,9 @@
+C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Service\SProyecto.java
+C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Repository\RProyecto.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\Repository\IRolRepository.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\Entity\Rol.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Service\SEducacion.java
+C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Entity\Proyecto.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Repository\Rhys.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Entity\hys.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Dto\dtoExperiencia.java
@@ -23,6 +26,7 @@ C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\co
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\jwt\JwtEntryPoint.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Service\SExperiencia.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\jwt\JwtTokenFilter.java
+C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Controller\CProyecto.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\Service\RolService.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Controller\PersonaController.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\Service\UsuarioService.java
@@ -33,6 +37,7 @@ C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\co
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Controller\CExperiencia.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Repository\REducacion.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\Dto\NuevoUsuario.java
+C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Dto\dtoProyecto.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Controller\CEducacion.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\Security\MainSecurity.java
 C:\AGUSTIN\00 - Programación\ArgentinaPrograma\PortfolioBackEnd\src\main\java\com\miportfolio\Agustin\AgustinApplication.java
